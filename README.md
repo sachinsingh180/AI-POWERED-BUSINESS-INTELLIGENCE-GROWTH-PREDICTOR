@@ -1,6 +1,6 @@
 AI-Powered Business Intelligence & Bulk Invoice Generator
 
-This repository contains a high-performance Streamlit-based web application designed to automate the generation of invoices at scale. By leveraging efficient data processing, this tool can generate invoices for millions of records within seconds.
+This is a high-performance Streamlit-based web application designed to automate the generation of invoices at scale. By leveraging efficient data processing, this tool can generate invoices for millions of records within seconds.
 
 🚀 Project Highlights
 Bulk Processing: Users can upload a CSV file containing transaction data, and the system processes all records instantly.
